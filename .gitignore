@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# env
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Java/Gradle
+backend/build/
+backend/.gradle/
+*.class
+*.jar
+
+# coverage
+coverage/
